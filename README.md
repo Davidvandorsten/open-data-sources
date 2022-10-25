@@ -1,0 +1,9 @@
+# Open Data Sources 
+
+| name                                       | website                                         | license_page                                                                     | license             | attribution   | share-alike   | non-commercial   |
+|:-------------------------------------------|:------------------------------------------------|:---------------------------------------------------------------------------------|:--------------------|:--------------|:--------------|:-----------------|
+| Eurostat                                   | [link](https://ec.europa.eu/eurostat)           | [link](https://ec.europa.eu/eurostat/about/policies/copyright)                   | custom              | required      | no            | no               |
+| CIA - The World Factbook                   | [link](https://www.cia.gov/the-world-factbook/) | [link](https://www.cia.gov/the-world-factbook/about/copyright-and-contributors/) | public domain       | courtesy      | no            | no               |
+| FAOSTAT - UN Food and Agriculture          | [link](https://www.fao.org/faostat/en/#home)    | [link](https://www.fao.org/contact-us/terms/db-terms-of-use/en/)                 | CC BY-NC-SA 3.0 IGO | required      | yes           | yes              |
+| UNdata - UN Data                           | [link](https://data.un.org)                     | [link](https://data.un.org/Host.aspx?Content=UNdataUse)                          | custom              | required      | no            | no               |
+| Statistisk Sentralbyrå - Statistics Norway | [link](https://www.ssb.no/en/)                  | [link](https://www.ssb.no/en/diverse/lisens)                                     | CC BY 4.0           | required      | no            | no               |
